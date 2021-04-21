@@ -1,0 +1,1 @@
+"./tm4c123gh6pm_startup_ccs.obj" "./02-Source/MCAL/DIO/Src/Dio.obj" "./03-App/main.obj" "../tm4c123gh6pm.cmd" -llibc.a 
